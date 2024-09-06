@@ -1,0 +1,237 @@
+[
+   {
+      "id": 1,
+      "name": "Muhammad Al-Shenawi",
+      "position": "goalkeeper",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/shenawy.png"
+      ]
+   },
+   {
+      "id": 2,
+      "name": "Mustafa Shopier",
+      "position": "goalkeeper",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/Mustafa.png"
+      ]
+   },
+   {
+      "id": 3,
+      "name": "Hamza Alaa",
+      "position": "goalkeeper ",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/hamza.png"
+      ]
+   },
+   {
+      "id": 4,
+      "name": "Mostafa Makhlof",
+      "position": "goalkeeper",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/makhlof.png"
+      ]
+   },
+   {
+      "id": 5,
+      "name": "Ali Malool",
+      "position": "Defender",
+      "nationality": "Tunisian",
+      "images": [
+         "/images/ali.png"
+      ]
+   },
+   {
+      "id": 6,
+      "name": "Karim El-Debees",
+      "position": "Defender",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/debees.png"
+      ]
+   },
+   {
+      "id": 7,
+      "name": "Mohamed Hany",
+      "position": "Defender",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/hany.png"
+      ]
+   },
+   {
+      "id": 8,
+      "name": "Karim Fouad",
+      "position": "Defender",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/KFouad.png"
+      ]
+   },
+   {
+      "id": 9,
+      "name": "Khaled Abdel-Fattah",
+      "position": "Defender",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/khaled.png"
+      ]
+   },
+   {
+      "id": 10,
+      "name": "Mahmoud Metwalli",
+      "position": "Defender",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/metwally.png"
+      ]
+   },
+   {
+      "id": 11,
+      "name": "Omar Kamal",
+      "position": "Defender",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/omar.png"
+      ]
+   },
+   {
+      "id": 12,
+      "name": "Ramy Rabiaa",
+      "position": "Defender",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/ramy.png"
+      ]
+   },
+   {
+      "id": 13,
+      "name": "Yasser Ebrahim",
+      "position": "Defender",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/yasser.png"
+      ]
+   },
+   {
+      "id": 14,
+      "name": "Mohamed Magdy Afsha",
+      "position": "Midfield",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/afsha.png"
+      ]
+   },
+   {
+      "id": 15,
+      "name": "Akram Tawfik",
+      "position": "Midfield",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/akram.png"
+      ]
+   },
+   {
+      "id": 16,
+      "name": "Alio Diang",
+      "position": "Midfield",
+      "nationality": "Mali",
+      "images": [
+         "/images/alio.png"
+      ]
+      
+   },
+   {
+      "id": 17,
+      "name": "Amr Al-Soliya",
+      "position": "Midfield",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/amr.png"
+      ]
+   },
+   {
+      "id": 18,
+      "name": "Emam Ashour",
+      "position": "Midfield",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/emam.png"
+      ]
+   },
+   {
+      "id": 19,
+      "name": "Hussin El-Shahat",
+      "position": "Midfield",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/hussen.png"
+      ]
+   },
+   {
+      "id": 20,
+      "name": "Ahmed Koka",
+      "position": "Midfield",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/koka.png"
+      ]
+   },
+   {
+      "id": 21,
+      "name": "Marawan Attia",
+      "position": "Midfield",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/marawan.png"
+      ]
+   },
+   {
+      "id": 22,
+      "name": "Karim Nidved",
+      "position": "Midfield",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/nadved.png"
+      ]
+   },
+   {
+      "id": 23,
+      "name": "Percy Tau",
+      "position": "Midfield",
+      "nationality": "South African",
+      "images": [
+         "/images/persy.png"
+      ]
+   },
+   {
+      "id": 24,
+      "name": "Taher Mohamed Taher",
+      "position": "Midfield",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/taher.png"
+      ]
+   },
+   {
+      "id": 25,
+      "name": "Wissam Abu Ali",
+      "position": "Attacker",
+      "nationality": "Palestinian",
+      "images": [
+         "/images/wessam.png"
+      ]
+   },
+   {
+      "id": 26,
+      "name": "Mahmoud Kahraba",
+      "position": "Attacker",
+      "nationality": "Egyptian",
+      "images": [
+         "/images/kahraba.png"
+      ]
+   }
+]

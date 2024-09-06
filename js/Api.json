@@ -1,0 +1,164 @@
+[
+    {
+        "id":1,
+        "name": "AL-AHLY 23/24 HOME",
+        "category": "T-shirt",
+        "price": 400,
+        "images": [
+            "/images/TALAHLY24HOME.avif"
+        ]
+    },
+    {
+        "id":2,
+        "name": "AL-AHLY 23/24 AWAY",
+        "category": "T-shirt",
+        "price":350 ,
+        "images": [
+            "/images/TALAHLY24AWAYJERSEY.avif"
+        ]
+    },
+    {
+        "id":3,
+        "name": "AL-AHLY 3 Black JSY",
+        "category": "T-shirt",
+        "price":350 ,
+        "images": [
+            "/images/TAHLY3BlackJSY.jpg"
+        ]
+    },
+    {
+        "id":4,
+        "name": "AL-AHLY 3 blue JSY",
+        "category": "T-shirt",
+        "price": 400,
+        "images": [
+            "/images/TAHLY3blueJSY.webp"
+        ]
+    },
+    {
+        "id":5,
+        "name": "AL-AHLY 3 Gray JSY",
+        "category": "T-shirt",
+        "price": 375,
+        "images": [
+            "/images/TAHLY3GrayJSY.avif"
+        ]
+    },
+    {
+        "id":6,
+        "name": "AL-AHLY 3 JSY",
+        "category": "T-shirt",
+        "price": 300,
+        "images": [
+            "/images/TAHLY3JSY.avif"
+        ]
+    },
+    {
+        "id":7,
+        "name": "AL-AHLY AWAY JSY",
+        "category": "T-shirt",
+        "price": 300,
+        "images": [
+            "/images/TAHLYAJSY.avif"
+        ]
+    },
+    {
+        "id":8,
+        "name": "AL-AHLY 18/19 HOME",
+        "category": "T-shirt",
+        "price": 250,
+        "images": [
+            "/images/TALAHLY19HOME.jpg"
+        ]
+    },
+    {
+        "id":9 ,
+        "name": "AL-AHLY 19/20 HOME",
+        "category": "T-shirt",
+        "price": 200,
+        "images": [
+            "/images/TALAHLY20HOME.jpg"
+        ]
+    },
+    {
+        "id":10,
+        "name": "Al-Ahly Flag",
+        "category": "Flag",
+        "price": 75 ,
+        "images": [
+            "/images/F1.jpg"
+        ]
+    },
+    {
+        "id":11,
+        "name": "Al-Ahly Flag",
+        "category": "Flag",
+        "price": 75 ,
+        "images": [
+            "/images/F2.jpg"
+        ]
+    },
+    {
+        "id":12,
+        "name": "Al-Ahly Flag",
+        "category": "Flag",
+        "price": 75 ,
+        "images": [
+            "/images/F3.jpg"
+        ]
+    },
+    {
+        "id":13,
+        "name": "Al-Ahly Flag",
+        "category": "Flag",
+        "price": 75 ,
+        "images": [
+            "/images/F4.jpg"
+        ]
+    },
+    {
+        "id":14,
+        "name": "Al-Ahly Flag",
+        "category": "Flag",
+        "price": 75 ,
+        "images": [
+            "/images/F5.jpg"
+        ]
+    },
+    {
+        "id":15,
+        "name": "Al-Ahly Red Mug",
+        "category": "Accessories",
+        "price": 100,
+        "images": [
+            "/images/Al-AhlyRedMug.jpg"
+        ]
+    },
+    {
+        "id":16,
+        "name": "Al-Ahly Black Mug",
+        "category": "Accessories",
+        "price": 100 ,
+        "images": [
+            "/images/Al-AhlyMug.jpg"
+        ]
+    },
+    {
+        "id":17,
+        "name": "Al-Ahly cap",
+        "category": "Accessories",
+        "price": 125,
+        "images": [
+            "/images/Al-Ahlycap.jpg"
+        ]
+    },
+    {
+        "id":18,
+        "name": "Al-Ahly wall clock",
+        "category": "Accessories",
+        "price":350 ,
+        "images": [
+            "/images/AlAhlywallclock.jpg"
+        ]
+    }
+]
